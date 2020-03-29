@@ -1,12 +1,20 @@
 # assignment_10
 
+
 Package: basic_stats
+
 Title: returns BASIC DESCRIPTIVE STATISTICS of a dataset
+
 Version: 0.0.0.900
+
 Authors@R: "Thsaliki Lakshmi Prasanna <thsaliki@usf.edu> [master student]"
+
 Description: basic statistics like mean, median, variance are calculated for each column
+
 Depends: R (>= 3.6.2)
+
 License: CCO
+
 LazyData: true
 
 
